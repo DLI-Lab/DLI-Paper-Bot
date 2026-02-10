@@ -1,0 +1,6 @@
+slack_bolt
+openai
+arxiv
+pymupdf
+requests
+python-dotenv
